@@ -6,12 +6,8 @@ This is the 2015 competition robot control program created by the Olympia Roboti
 Update 8.0
 *    Merged commit from ORF-4450/Robot8 to MoSadie/Robot8 involving .gitignore
 
-S. Flo November 23, 2015
-
-Update 8.0
-*    Forked project from ORF-4450/Robot8 to MoSadie/Robot8
-
-S. Flo November 16, 2015
+S. Flo
+November 23, 2015
 
 Update 8.0
 
