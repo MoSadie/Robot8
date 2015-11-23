@@ -13,6 +13,13 @@ Update 8.0
 
 S. Flo November 16, 2015
 
+Update 8.0
+
+*     Forked project from ORF-4450/Robot8 to MoSadie/Robot8
+
+S. Flo
+November 16, 2015
+
 Release 8.0
 
 *    Created github repo for this project.
